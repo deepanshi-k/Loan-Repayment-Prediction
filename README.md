@@ -8,10 +8,10 @@ This project utilizes machine learning to predict the likelihood of a client rep
 
 ## Technologies Utilized
 
-Python (core language)
-Machine learning libraries (scikit-learn or others)
-Data manipulation libraries (pandas, NumPy)
-Data visualization libraries (matplotlib, seaborn)
+Python (core language)    
+Machine learning libraries (scikit-learn or others)    
+Data manipulation libraries (pandas, NumPy)    
+Data visualization libraries (matplotlib, seaborn)     
 Deployment (streamlit)
 
 ## Note
